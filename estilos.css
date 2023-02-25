@@ -80,7 +80,6 @@
   }
 
   .seccion1 {
-    height: 370px;
     margin: 60px 15px 0px 15px;
   }
 
@@ -91,7 +90,7 @@
   }
 
   #texts1 {
-    margin: 20px 0px 40px ppx;
+    margin: 20px 0px 40px 0px;
     color: grey;
     line-height: 1.8;
     font-size: 15pt;
